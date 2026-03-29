@@ -45,10 +45,10 @@ The dataset includes:
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 🔹 Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
+![Heatmap](l1%20%26%20l2%20Regularization%20png/heatmap.png)
 ### 🔹 Income vs Loan (Boxplot)
 ![Boxplot](l1%20%26%20l2%20Regularization%20png/boxplot.png)
+
 🔍 **Insights:**
 - Higher income → higher chance of loan  
 - High CCAvg users take more loans  
